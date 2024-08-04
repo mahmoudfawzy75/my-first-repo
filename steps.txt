@@ -1,0 +1,12 @@
+1- creat new repositories
+2-make file and open cmd
+3-git clone (#link repo)
+4-dir
+5-cd (#name repo)
+6-git status for know all things
+7-git add *
+8-to be sure back to 6
+9-git commit -m "(#write down what u did)"
+10-git branch
+11-git remote -v
+12-git push origin main
